@@ -1,0 +1,3 @@
+﻿Kiss János;06301111111;1123 Budapest Rózsa utca 4.;kiss@chello.hu;
+Katona Cecília;+36301526348;8756 Jászberény Ügető utca 34.;;
+Kovács Gábor;06309638524;4567 Cegléd Széchenyi utca 5.;gkovacs@freemail.hu
